@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for measures, published by the Queenes commandement</title>
+            <title>Proclamations. 1601</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1602</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21957</idno>
+            <idno type="STC">STC 8291</idno>
+            <idno type="STC">ESTC S121566</idno>
+            <idno type="EEBO-CITATION">99856745</idno>
+            <idno type="PROQUEST">99856745</idno>
+            <idno type="VID">22369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22369)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1171:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for measures, published by the Queenes commandement</title>
+                  <title>Proclamations. 1601</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1602]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Procedures verifying or replacing standard measures."--STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weights and measures --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:22369:1"/>
+            <head>❀ By the Queene.</head>
+            <head>
+               <g ref="char:leaf">❧</g> A Proclamation for Meaſures, publiſhed by the Queenes Commandement.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here for the auoiding of varietie and deceits of Weights and Meaſures, di<g ref="char:EOLhyphen"/>uerſe Statutes, Arts and Ordinances haue heretofore beene made, That one Weight, and one Meaſure ſhould be vſed throughout the Realme, And where, according to the Statutes made in the eleuenth and twelfth yeeres of the reigne of the late king of famous memorie King Henry the ſeuenth, there haue bene made, ſent, and deliuered into diuers Cities and Townes, ſpecified in a Schedule vnto the ſaid Acte of <hi>11. H. 7.</hi> annexed, Weights and Meaſures of Braſſe according to the Standards thereof remaining in the Treaſurie of the Exchequer, to remaine in the keeping of the Maior, Bayliffe, or other head Officer for the time being, of euery of the ſame Citie or Towne, as the kings Standard of Weight and Mea<g ref="char:EOLhyphen"/>ſure, with authoritie and power giuen by the ſame Statute, to the ſaid Maior, Bailiffe, or other head Officer, hauing the ſaid Weights and Meaſures, to make, ſigne and print like Weights and Meaſures vnto euery of the kings ſubiects, duely requiring the ſame, as by the ſaid Statutes more at large ap<g ref="char:EOLhyphen"/>peareth: Our Soueraigne Ladie the Queene, being enformed that the ſaid Standard meaſures remaining in thoſe Cities and Townes, for the moſt part are by long continuance of time, or for want of good keeping, or other defects or abuſes differing and not agreeing with the ancient Standard of Meaſures remaining in her Highneſſe Exchequer at Weſtminſter, by occaſion whereof the Meaſures commonly vſed within the Realme be vncertaine, and varying one from another to the great ſlander of the ſame, and the deceiuing of many both buyers and ſellers: Hath giuen order and commande<g ref="char:EOLhyphen"/>ment to the L. Treaſurer and vnder Treaſurer, to cauſe all the ancient Standard meaſures of all thoſe ſeuerall Cities and Townes to be brought in before them at the Exchequer at Weſtminſter, to be examined and tryed by the Queenes Standard meaſure there remaining, according to which her Maieſties commandement, the Lord Treaſurer and vnder Treaſurer haue cauſed all the ancient Standard meaſures of all thoſe ſeuerall Cities and Townes to be brought before them into her High<g ref="char:EOLhyphen"/>neſſe ſaid Exchequer, where diuerſe of them vpon diligent and due triall and examination haue bene found defectiue, differing and diſagreeing from the true and ancient Standard of the Exchequer. Whereupon her Maieſtie intending the common &amp; publique good of all her louing Subiects, and to auoide all differences and deceipts of Meaſure within this her Highneſſe Realme, vpon good and de<g ref="char:EOLhyphen"/>liberate aduiſe, and due conſideration therein had, Hath not onely eſtabliſhed the foreſaid true and ancient Standard of Meaſures remaining in her Maieſties Exchequer, there to continue and be, as her Maieſties Standard, to examine, trie, and ſize all other Meaſures of Realme by, from time to time as occaſion ſhall require: But alſo hath giuen commandement to the Lord Treaſurer and vnder Treaſurer to cauſe all the other Meaſures which were brought before them (from the Cities and Townes aforeſaid) found vpon triall to be differing and diſagreeing from the true and ancient Standards of meaſures of her Highneſſe Exchequer, to be broken.</p>
+            <pb facs="tcp:22369:2"/>
+            <p> And further her Maieſty hath giuen order and commandement vnto the ſaid Lord Treaſurer and vnder Treaſurer, forthwith to cauſe new Standards of meaſures in Braſſe to be made, tryed, and approoued by the ſayd true and ancient Standard of the Exchequer, and after true and iuſt examina<g ref="char:EOLhyphen"/>tion and triall thereof had and made, to ſize and ſeale (with the letter <hi>E</hi> crowned) ſuch and ſo many Standard meaſures, for euery of the ſayd ſeuerall Cities and Townes limited to haue the cuſtodie of weights and meaſures, according to the Queenes Standard for euery Shire by the ſayd ſchedule an<g ref="char:EOLhyphen"/>nexed vnto the ſayde Statute made in the eleuenth yeere of the Reigne of King Henry the ſeuenth, there to remaine for euer in the keeping of the Mayor, Bayliffe, or other head Officer for the time be<g ref="char:EOLhyphen"/>ing of the ſaid City and Towne as the Queenes Standard of meaſure, as to them ſhall ſeeme neceſ<g ref="char:EOLhyphen"/>ſary and conuenient. And alſo as many as may ſerue and be conuenient for the Clerke of the Market of her Highneſſe houſhold (and through the Realme) or his Deputies, according to the Statute of <hi>Anno 16. R. 2. Cap 3.</hi> And alſo as may or ſhall ſerue for any other her Maieſties Officers or Subiects within this Realme as ſhall make ſuite for the hauing and obtaining of the ſame.</p>
+            <p>Her Maieſties will and pleaſure therefore is, That the Mayor, Bayliffes, Portreues, Wardens, and other head Officers of euery of the ſayde Cities, Boroughes, Townes, Cinqueports, and places mentioned in the ſchedule annexed to the ſayd Statute of <hi>Anno 11. H. 7.</hi> before the Feaſt of S. Iohn Baptiſt next comming, at the common charge of the ſame place, ſhall ſend ſome ſufficient perſon vnto the ſayd Exchequer, authorized to receiue ſuch Standards as ſhalbe deliuered vnto him, by the order and appointment of the ſayde Lorde Treaſurer and vnder Treaſurer, for the ſayd City, Borough, Towne, or place, And to pay ſuch reaſonable prices for the ſame, as vpon true valuation of the ſame ſhalbe by the ſaid Lord Treaſurer and vnder Treaſurer rated or aſſeſſed: Which Standards, euery of the ſaid Mayors, Bayliffes, and other head Officers vnto whome it ſhall appertaine, ſhall ſafely keepe or cauſe to be kept in ſome ſure and conuenient place in the ſame City, Borough, or Towne, and by them make or ſize, or cauſe to be made and ſized, other common Meaſures for the vſe of all manner of people in the ſame City, Borough, Towne, or place that ſhal haue cauſe to vſe Meaſures. And ſhall alſo make, ſigne, and print with the firſt letter of the name of the ſame City, Borough, Towne, or place where the ſame Meaſure ſhalbe ſo made, ſized, and printed, like Meaſures vnto euery of the Queens Subiects duely requiring the ſame, taking ſuch fees for the doing thereof as by the Statutes of the Realme are allowed, and no more. And euery of the ſayde Mayors, Bayliffes, and other head Offi<g ref="char:EOLhyphen"/>cers of Cities, Boroughes, Townes, and places within this Realme ſhall further doe and cauſe to be done, all ſuch other Act and Actes, thing and things, for the prouiding, hauing, and vſing of the ſayde Standards of meaſures as be limited and appointed to their or any of their authoritie by the ſaid Sta<g ref="char:EOLhyphen"/>tutes made in the eleuenth and twelfth yeeres of the late King Henry the ſeuenth, or any other Sta<g ref="char:EOLhyphen"/>tute or Ordinance whatſoeuer: So as all the Meaſures through the Realme may be reformed and made agreeable according to the Standard of the Exchequer, as by the Statutes in ſuch caſe is requi<g ref="char:EOLhyphen"/>red. And her Maieſtie further commandeth and ordaineth, That no perſon or perſons ſhall from the firſt day of Auguſt next comming, vſe any other Meaſure or Meaſures; but ſuch as ſhall be made or ſized, and reſpectiuely agreeing with the ſayd Standards, and printed and marked with ſuch markes and letters as before is limitted, vpon paine to be apprehended, committed to priſon, fined and puni<g ref="char:EOLhyphen"/>ſhed, as contriuers and vſers of falſe Meaſures, according to the Statutes in that caſe made and pro<g ref="char:EOLhyphen"/>uided. And that this Proclamation for the better inſtructing of all her Maieſties Subiects, ſhall be<g ref="char:EOLhyphen"/>fore the feaſt of Eaſter now next comming, be proclaimed in euery Market towne thorow the Realm, and be hanged vp, and faſtened in a Table in the Market place by an officer, where it may continue
+<pb facs="tcp:22369:3"/>to be ſeene and read by any that will. And further, That it ſhall be read in euery Pariſh Church be<g ref="char:EOLhyphen"/>fore the ſayd feaſt of Eaſter next comming, in a time and ſpace betweene the beginning and ending of Common prayer, vpon the Sunday or Holy day, by the Miniſter or Clerke of the Church, and ſo from thenceforth once at euery feaſt of the Annunciation of the bleſſed Virgin Marie, And once at euery feaſt of S. Michael the Archangel, by the ſpace of fiue yeeres next comming, or be hanged vp, and preſerued in euery Church in a Table, to be ſeene and read at all times by any that will: And that the defaults of Officers, Miniſters, Clerkes, and Churchwardens in this behalfe, ſhalbe enquired of and puniſhed by the Iuſtices of Aſſiſe, and Iuſtices of Peace in their Seſſions, according to their diſcretions, as contemners of her Maieſties commandement. And that all the Standards and Mea<g ref="char:EOLhyphen"/>ſures whatſoeuer, not ſized, marked and printed, and made reſpectiuely agreeing to and with the fore<g ref="char:EOLhyphen"/>ſayd Standards, and the true meaning of this proclamation, ſhall from the ſayd feaſt of S. Iohn Baptiſt next comming, which ſhall be in the yeere of our Lord God <hi>1602.</hi> bee reputed and taken for vntrue meaſures, and ſhalbe broken, defaced and deſtroyed by the owners of the ſame, or by ſuch offi<g ref="char:EOLhyphen"/>cers as haue or ſhall haue authoritie to enquire of falſe Weights and Meaſures.</p>
+            <p>And for the better execution hereof, all Maiors, Bailiffes, and other head Officers of euery Citie, Shire, Towne, Borough, or Market within this Realme, ſhall immediatly after the ſayd Feaſt of S. Iohn Baptiſt, and ſo from time to time according to the ſaid Statute, as all other Corporate, Bo<g ref="char:EOLhyphen"/>rough, or Market Townes within this Realme, cauſe to be brought before them all the Meaſures within the ſame Cities, Boroughes, Corporate or Market Townes, to be duely viewed and exami<g ref="char:EOLhyphen"/>ned, and ſuch as they ſhall finde defectiue or diſagreeing vnto the foreſaid Standard Meaſures, either in greatneſſe or ſmalneſſe, to cauſe to be broken &amp; defaced, and further puniſhment to be done vpon the offenders therein, according to the Statute. And that the Iuſtices of Peace, or two of them (where<g ref="char:EOLhyphen"/>of one of them to be of the <hi>Quorum</hi>) ſhall with all diligence and from time to time, by examination or enquirie heare and determine the defaults of all Mayors, Bayliffes, and other head Officers of Ci<g ref="char:EOLhyphen"/>ties, Boroughes, Corporate or Market Townes within their limits or authorities on that behalfe, and to ſet Fines and Amercements vpon the offenders in that behalfe by their diſcretions, and thoſe to eſtreate into the Court of Exchequer, and that vpon paine of the puniſhment due for ſuch contempt.</p>
+            <p>And laſtly, her Maieſtie ſtraightly chargeth and commandeth all Iuſtices of Aſſize, Iuſtices of Peace, her Highneſſe Clerke of the Market, Maiors, Bailiffes, Stewards of Liberties, and all other her Maieſties Officers and Miniſters whatſoeuer, to cauſe this preſent Proclamation, &amp; all Lawes, Statutes, and ordinances, for the hauing and vſing of true Meaſures, and for the aboliſhing the vſe of falſe Meaſures, to be put in execution according to their ſeuerall authorities and Iuriſdictions, as they tender her Maieſties ſeruice herein, and the Common wealth of this Realme.</p>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to <hi>the Queenes moſt excellent Maieſtie.</hi>
+            </p>
+            <p>Anno Dom. 1602.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
